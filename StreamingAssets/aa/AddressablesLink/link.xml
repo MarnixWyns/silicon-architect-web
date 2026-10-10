@@ -1,0 +1,33 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BenchmarkCategoryData" preserve="all" />
+    <type fullname="BenchmarkData" preserve="all" />
+    <type fullname="ComponentData" preserve="all" />
+    <type fullname="SkillTreeData" preserve="all" />
+    <type fullname="SocketTreeData" preserve="all" />
+    <type fullname="SocketUpgradeData" preserve="all" />
+    <type fullname="TutorialData" preserve="all" />
+    <type fullname="UpgradeData" preserve="all" />
+    <type fullname="SkillModifier" preserve="nothing" serialized="true" />
+    <type fullname="TutorialStepData" preserve="nothing" serialized="true" />
+    <type fullname="UpgradeLevel" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Vector2Int" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
